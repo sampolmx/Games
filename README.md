@@ -22,3 +22,16 @@ Ideal para aprender sobre programación de videojuegos, manejo de matrices, coli
 Instálala con:
 ```bash
 pip install pygame
+
+##🚀 Cómo jugar
+	1.	Clona este repositorio:
+    git clone https://github.com/tuusuario/tetris-pygame.git
+cd tetris-pygame
+##2.	Ejecuta el juego:
+python tetris.py
+##3.	Controles:
+	•	⬅️ Flecha izquierda → mover pieza a la izquierda
+	•	➡️ Flecha derecha → mover pieza a la derecha
+	•	⬇️ Flecha abajo → acelerar caída
+	•	⬆️ Flecha arriba → rotar pieza
+##
