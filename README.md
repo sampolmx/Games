@@ -34,4 +34,3 @@ python tetris.py
 	•	➡️ Flecha derecha → mover pieza a la derecha
 	•	⬇️ Flecha abajo → acelerar caída
 	•	⬆️ Flecha arriba → rotar pieza
-##
