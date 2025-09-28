@@ -1,0 +1,17 @@
+tetris-pygame/
+│── src/                  # Código fuente
+│   └── tetris.py
+│
+│── assets/               # Recursos (futuro: imágenes, sonidos, fuentes)
+│
+│── docs/                 # Documentación, reportes, changelog
+│   └── report.md
+│
+│── tests/                # Pruebas unitarias o de integración
+│
+│── README.md             # Descripción del proyecto
+│── LICENSE               # Licencia del repositorio
+│── requirements.txt      # Dependencias (ej. pygame)
+│── CONTRIBUTING.md       # Guía para contribuir
+│── SECURITY.md           # Política de seguridad
+│── .gitignore            # Ignorar cachés, __pycache__, etc.
