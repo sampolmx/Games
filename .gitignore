@@ -1,2 +1,25 @@
 # Google App Engine generated folder
 appengine-generated/
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de entorno
+.env
+.venv/
+venv/
+ENV/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación y logs
+*.log
+
+# Archivos de PyInstaller
+*.spec
+dist/
+build/
